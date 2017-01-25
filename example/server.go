@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"../"
+	"github.com/gomiddleware/slash"
 )
 
 func handler(w http.ResponseWriter, r *http.Request) {
